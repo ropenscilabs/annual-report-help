@@ -1,7 +1,7 @@
 # ~Help Wanted~ 
 
 # Thank you!
-Warm thanks to everyone who asked questions, and contributed ideas and solutions. This was a successful community experiment 😊 thanks to @czeildi @sharlagelfand @mpadge @pachamaltese @patperu @elinw. We will acknowledge people whose code we use in our reports.
+Warm thanks to everyone who asked questions, and contributed ideas and solutions. This was a successful community experiment 😊 thanks to [@czeildi](https://github.com/czeildi) [@sharlagelfand](https://github.com/sharlagelfand) [@mpadge](https://github.com/mpadge) [@pachamaltese](https://github.com/pachamaltese) [@patperu](https://github.com/patperu) [@elinw](https://github.com/elinw). We will acknowledge people whose code we use in our reports.
 
 
 ### Original request
